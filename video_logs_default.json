@@ -1,0 +1,28 @@
+{
+    "video_urls_paths" : {
+        "00" : ["https://www.youtube.com/watch?v=qDnrdeNDRio", ""],
+        "01" : ["https://www.youtube.com/watch?v=LjrMm_6zmNo", ""],
+        "02" : ["https://www.youtube.com/watch?v=oPCkJqbTpaA", ""],
+        "03" : ["https://www.youtube.com/watch?v=0Gpa29MRPys", ""],
+        "04" : ["https://www.youtube.com/watch?v=ROpWMf0Md6g", ""],
+        "05" : ["https://www.youtube.com/watch?v=_qSyWo0Tm4U", ""],
+        "06" : ["https://www.youtube.com/watch?v=lS0XGL2rWTI", ""],
+        "07" : ["https://www.youtube.com/watch?v=rdVBS1lHDC4", ""],
+        "08" : ["https://www.youtube.com/watch?v=QIx22FB3FXo", ""],
+        "09" : ["https://www.youtube.com/watch?v=7Rf6gOt_LdY", ""],
+        "10" : ["https://www.youtube.com/watch?v=hkP1kOKF2Yk", ""],
+        "11" : ["https://www.youtube.com/watch?v=AKXMNP23BnA", ""],
+        "12" : ["https://www.youtube.com/watch?v=KJp488yN3VM", ""],
+        "13" : ["https://www.youtube.com/watch?v=yWWoDrUZq04", ""],
+        "14" : ["https://www.youtube.com/watch?v=gD4Hh115gOk", ""],
+        "15" : ["https://www.youtube.com/watch?v=uhnNzw4x7sE", ""],
+        "16" : ["https://www.youtube.com/watch?v=cLBhI_9njKw", ""],
+        "17" : ["https://www.youtube.com/watch?v=vc1zlXMyZow", ""],
+        "18" : ["https://www.youtube.com/watch?v=WH_rj-YzzXI", ""],
+        "19" : ["https://www.youtube.com/watch?v=AK5mUK5IQvs", ""],
+        "20" : ["https://www.youtube.com/watch?v=du10VZTTZp8", ""],
+        "21" : ["https://www.youtube.com/watch?v=HxXOrY_DtVw", ""],
+        "22" : ["https://www.youtube.com/watch?v=zANebE1wNjw", ""],
+        "23" : ["https://www.youtube.com/watch?v=5hVFsARLcV0", ""]
+    }
+}
