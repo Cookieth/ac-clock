@@ -1,1 +1,6 @@
 *.mp4
+build/*
+dist/*
+env/*
+video_logs.json
+.DS_Store
